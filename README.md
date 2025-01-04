@@ -58,6 +58,7 @@ render() {
 ## Author
 
 [Christoph Michel](http://cmichel.io)
+Revision by Richard Paulsen to fix react-native 0.76.5 restriction on ViewPropTypes and View.propTypes.
 
 ## Implementation Details
 
